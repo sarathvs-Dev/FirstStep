@@ -1,0 +1,74 @@
+[
+  {
+    "id": "red",
+    "name": "Red",
+    "hex": "#EF4444",
+    "speech": "This is Red."
+  },
+  {
+    "id": "blue",
+    "name": "Blue",
+    "hex": "#3B82F6",
+    "speech": "This is Blue."
+  },
+  {
+    "id": "green",
+    "name": "Green",
+    "hex": "#22C55E",
+    "speech": "This is Green."
+  },
+  {
+    "id": "yellow",
+    "name": "Yellow",
+    "hex": "#FACC15",
+    "speech": "This is Yellow."
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "hex": "#F97316",
+    "speech": "This is Orange."
+  },
+  {
+    "id": "pink",
+    "name": "Pink",
+    "hex": "#EC4899",
+    "speech": "This is Pink."
+  },
+  {
+    "id": "purple",
+    "name": "Purple",
+    "hex": "#A855F7",
+    "speech": "This is Purple."
+  },
+  {
+    "id": "white",
+    "name": "White",
+    "hex": "#FFFFFF",
+    "speech": "This is White."
+  },
+  {
+    "id": "black",
+    "name": "Black",
+    "hex": "#1F2937",
+    "speech": "This is Black."
+  },
+  {
+    "id": "brown",
+    "name": "Brown",
+    "hex": "#92400E",
+    "speech": "This is Brown."
+  },
+  {
+    "id": "grey",
+    "name": "Grey",
+    "hex": "#9CA3AF",
+    "speech": "This is Grey."
+  },
+  {
+    "id": "sky-blue",
+    "name": "Sky Blue",
+    "hex": "#38BDF8",
+    "speech": "This is Sky Blue."
+  }
+]

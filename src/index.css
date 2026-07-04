@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background: #FFFBF2;
+  color: #3A3358;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, .font-display {
+  font-family: 'Baloo 2', cursive;
+}
+
+/* Respect reduced motion preference for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Big friendly focus ring for keyboard users */
+button:focus-visible, a:focus-visible {
+  outline: 4px solid #4FC3F7;
+  outline-offset: 3px;
+  border-radius: 1rem;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background: #FFC93C;
+  border-radius: 20px;
+}
+::-webkit-scrollbar-track {
+  background: #FFFBF2;
+}
+
+/* Twemoji images inline in place of emoji text — sized off the current
+   font-size so they drop into existing text-6xl/text-8xl/etc. classes. */
+.emoji-wrap {
+  display: inline;
+}
+.emoji-wrap img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 0.05em;
+  vertical-align: -0.15em;
+  display: inline-block;
+}

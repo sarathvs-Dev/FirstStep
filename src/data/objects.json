@@ -1,0 +1,122 @@
+[
+  {
+    "id": "book",
+    "name": "Book",
+    "emoji": "\ud83d\udcd6",
+    "speech": "Book."
+  },
+  {
+    "id": "chair",
+    "name": "Chair",
+    "emoji": "\ud83e\ude91",
+    "speech": "Chair."
+  },
+  {
+    "id": "table",
+    "name": "Table",
+    "emoji": "\ud83d\udecb\ufe0f",
+    "speech": "Table."
+  },
+  {
+    "id": "pen",
+    "name": "Pen",
+    "emoji": "\ud83d\udd8a\ufe0f",
+    "speech": "Pen."
+  },
+  {
+    "id": "pencil",
+    "name": "Pencil",
+    "emoji": "\u270f\ufe0f",
+    "speech": "Pencil."
+  },
+  {
+    "id": "bottle",
+    "name": "Bottle",
+    "emoji": "\ud83c\udf7c",
+    "speech": "Bottle."
+  },
+  {
+    "id": "cup",
+    "name": "Cup",
+    "emoji": "\u2615",
+    "speech": "Cup."
+  },
+  {
+    "id": "fan",
+    "name": "Fan",
+    "emoji": "\ud83c\udf00",
+    "speech": "Fan."
+  },
+  {
+    "id": "clock",
+    "name": "Clock",
+    "emoji": "\ud83d\udd50",
+    "speech": "Clock."
+  },
+  {
+    "id": "door",
+    "name": "Door",
+    "emoji": "\ud83d\udeaa",
+    "speech": "Door."
+  },
+  {
+    "id": "window",
+    "name": "Window",
+    "emoji": "\ud83e\ude9f",
+    "speech": "Window."
+  },
+  {
+    "id": "phone",
+    "name": "Phone",
+    "emoji": "\ud83d\udcf1",
+    "speech": "Phone."
+  },
+  {
+    "id": "television",
+    "name": "Television",
+    "emoji": "\ud83d\udcfa",
+    "speech": "Television."
+  },
+  {
+    "id": "laptop",
+    "name": "Laptop",
+    "emoji": "\ud83d\udcbb",
+    "speech": "Laptop."
+  },
+  {
+    "id": "bag",
+    "name": "Bag",
+    "emoji": "\ud83c\udf92",
+    "speech": "Bag."
+  },
+  {
+    "id": "ball",
+    "name": "Ball",
+    "emoji": "\u26bd",
+    "speech": "Ball."
+  },
+  {
+    "id": "shoes",
+    "name": "Shoes",
+    "emoji": "\ud83d\udc5f",
+    "speech": "Shoes."
+  },
+  {
+    "id": "umbrella",
+    "name": "Umbrella",
+    "emoji": "\u2602\ufe0f",
+    "speech": "Umbrella."
+  },
+  {
+    "id": "bus",
+    "name": "Bus",
+    "emoji": "\ud83d\ude8c",
+    "speech": "Bus."
+  },
+  {
+    "id": "car",
+    "name": "Car",
+    "emoji": "\ud83d\ude97",
+    "speech": "Car."
+  }
+]

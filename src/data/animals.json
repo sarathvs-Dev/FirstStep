@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cat",
+    "name": "Cat",
+    "emoji": "\ud83d\udc31",
+    "sound": "Meow Meow",
+    "fact": "A cat loves to nap in warm sunny spots.",
+    "speech": "Cat. Meow Meow."
+  },
+  {
+    "id": "dog",
+    "name": "Dog",
+    "emoji": "\ud83d\udc36",
+    "sound": "Woof Woof",
+    "fact": "Dogs wag their tails when they are happy.",
+    "speech": "Dog. Woof Woof."
+  },
+  {
+    "id": "cow",
+    "name": "Cow",
+    "emoji": "\ud83d\udc04",
+    "sound": "Moo Moo",
+    "fact": "A cow gives us milk to drink.",
+    "speech": "Cow. Moo Moo."
+  },
+  {
+    "id": "goat",
+    "name": "Goat",
+    "emoji": "\ud83d\udc10",
+    "sound": "Maa Maa",
+    "fact": "Goats love to climb up on rocks.",
+    "speech": "Goat. Maa Maa."
+  },
+  {
+    "id": "horse",
+    "name": "Horse",
+    "emoji": "\ud83d\udc34",
+    "sound": "Neigh Neigh",
+    "fact": "Horses can run very very fast.",
+    "speech": "Horse. Neigh Neigh."
+  },
+  {
+    "id": "lion",
+    "name": "Lion",
+    "emoji": "\ud83e\udd81",
+    "sound": "Roar Roar",
+    "fact": "The lion is called the king of the jungle.",
+    "speech": "Lion. Roar Roar."
+  },
+  {
+    "id": "tiger",
+    "name": "Tiger",
+    "emoji": "\ud83d\udc2f",
+    "sound": "Growl Growl",
+    "fact": "Tigers have orange and black stripes.",
+    "speech": "Tiger. Growl Growl."
+  },
+  {
+    "id": "elephant",
+    "name": "Elephant",
+    "emoji": "\ud83d\udc18",
+    "sound": "Toot Toot",
+    "fact": "Elephants use their trunk like a hand.",
+    "speech": "Elephant. Toot Toot."
+  },
+  {
+    "id": "monkey",
+    "name": "Monkey",
+    "emoji": "\ud83d\udc12",
+    "sound": "Ooh Ooh Aah Aah",
+    "fact": "Monkeys love to swing from tree to tree.",
+    "speech": "Monkey. Ooh Ooh Aah Aah."
+  },
+  {
+    "id": "rabbit",
+    "name": "Rabbit",
+    "emoji": "\ud83d\udc30",
+    "sound": "Squeak",
+    "fact": "Rabbits have long ears and hop very high.",
+    "speech": "Rabbit. Squeak."
+  },
+  {
+    "id": "bear",
+    "name": "Bear",
+    "emoji": "\ud83d\udc3b",
+    "sound": "Grr Grr",
+    "fact": "Bears love to eat honey.",
+    "speech": "Bear. Grr Grr."
+  },
+  {
+    "id": "fish",
+    "name": "Fish",
+    "emoji": "\ud83d\udc1f",
+    "sound": "Blub Blub",
+    "fact": "Fish breathe underwater with gills.",
+    "speech": "Fish. Blub Blub."
+  },
+  {
+    "id": "frog",
+    "name": "Frog",
+    "emoji": "\ud83d\udc38",
+    "sound": "Ribbit Ribbit",
+    "fact": "Frogs love to jump from leaf to leaf.",
+    "speech": "Frog. Ribbit Ribbit."
+  },
+  {
+    "id": "snake",
+    "name": "Snake",
+    "emoji": "\ud83d\udc0d",
+    "sound": "Hiss Hiss",
+    "fact": "Snakes slide along the ground without legs.",
+    "speech": "Snake. Hiss Hiss."
+  },
+  {
+    "id": "turtle",
+    "name": "Turtle",
+    "emoji": "\ud83d\udc22",
+    "sound": "...Slow and quiet...",
+    "fact": "Turtles carry their home on their back.",
+    "speech": "Turtle. ...Slow and quiet...."
+  },
+  {
+    "id": "camel",
+    "name": "Camel",
+    "emoji": "\ud83d\udc2b",
+    "sound": "Grunt Grunt",
+    "fact": "Camels can walk far in the hot desert.",
+    "speech": "Camel. Grunt Grunt."
+  },
+  {
+    "id": "zebra",
+    "name": "Zebra",
+    "emoji": "\ud83e\udd93",
+    "sound": "Neigh Neigh",
+    "fact": "Zebras have black and white stripes.",
+    "speech": "Zebra. Neigh Neigh."
+  },
+  {
+    "id": "giraffe",
+    "name": "Giraffe",
+    "emoji": "\ud83e\udd92",
+    "sound": "Hum Hum",
+    "fact": "Giraffes have very very long necks.",
+    "speech": "Giraffe. Hum Hum."
+  },
+  {
+    "id": "panda",
+    "name": "Panda",
+    "emoji": "\ud83d\udc3c",
+    "sound": "Grr Grr",
+    "fact": "Pandas love munching on bamboo.",
+    "speech": "Panda. Grr Grr."
+  },
+  {
+    "id": "fox",
+    "name": "Fox",
+    "emoji": "\ud83e\udd8a",
+    "sound": "Ring-ding-ding",
+    "fact": "Foxes have soft bushy tails.",
+    "speech": "Fox. Ring-ding-ding."
+  }
+]

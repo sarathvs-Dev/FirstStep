@@ -1,0 +1,86 @@
+[
+  {
+    "id": "apple",
+    "name": "Apple",
+    "emoji": "\ud83c\udf4e",
+    "speech": "Apple."
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "emoji": "\ud83c\udf4c",
+    "speech": "Banana."
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "emoji": "\ud83c\udf4a",
+    "speech": "Orange."
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "emoji": "\ud83e\udd6d",
+    "speech": "Mango."
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "emoji": "\ud83c\udf49",
+    "speech": "Watermelon."
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "emoji": "\ud83c\udf4d",
+    "speech": "Pineapple."
+  },
+  {
+    "id": "papaya",
+    "name": "Papaya",
+    "emoji": "\ud83c\udf48",
+    "speech": "Papaya."
+  },
+  {
+    "id": "grapes",
+    "name": "Grapes",
+    "emoji": "\ud83c\udf47",
+    "speech": "Grapes."
+  },
+  {
+    "id": "cherry",
+    "name": "Cherry",
+    "emoji": "\ud83c\udf52",
+    "speech": "Cherry."
+  },
+  {
+    "id": "strawberry",
+    "name": "Strawberry",
+    "emoji": "\ud83c\udf53",
+    "speech": "Strawberry."
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut",
+    "emoji": "\ud83e\udd65",
+    "speech": "Coconut."
+  },
+  {
+    "id": "guava",
+    "name": "Guava",
+    "emoji": "\ud83c\udf48",
+    "speech": "Guava."
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "emoji": "\ud83c\udf4b",
+    "speech": "Lemon."
+  },
+  {
+    "id": "pomegranate",
+    "name": "Pomegranate",
+    "emoji": "\ud83c\udf4e",
+    "speech": "Pomegranate."
+  }
+]

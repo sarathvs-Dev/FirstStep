@@ -1,0 +1,210 @@
+[
+  {
+    "id": "A",
+    "uppercase": "A",
+    "lowercase": "a",
+    "word": "Apple",
+    "emoji": "\ud83c\udf4e",
+    "speech": "A. A for Apple."
+  },
+  {
+    "id": "B",
+    "uppercase": "B",
+    "lowercase": "b",
+    "word": "Ball",
+    "emoji": "\u26bd",
+    "speech": "B. B for Ball."
+  },
+  {
+    "id": "C",
+    "uppercase": "C",
+    "lowercase": "c",
+    "word": "Cat",
+    "emoji": "\ud83d\udc31",
+    "speech": "C. C for Cat."
+  },
+  {
+    "id": "D",
+    "uppercase": "D",
+    "lowercase": "d",
+    "word": "Dog",
+    "emoji": "\ud83d\udc36",
+    "speech": "D. D for Dog."
+  },
+  {
+    "id": "E",
+    "uppercase": "E",
+    "lowercase": "e",
+    "word": "Elephant",
+    "emoji": "\ud83d\udc18",
+    "speech": "E. E for Elephant."
+  },
+  {
+    "id": "F",
+    "uppercase": "F",
+    "lowercase": "f",
+    "word": "Fish",
+    "emoji": "\ud83d\udc1f",
+    "speech": "F. F for Fish."
+  },
+  {
+    "id": "G",
+    "uppercase": "G",
+    "lowercase": "g",
+    "word": "Grapes",
+    "emoji": "\ud83c\udf47",
+    "speech": "G. G for Grapes."
+  },
+  {
+    "id": "H",
+    "uppercase": "H",
+    "lowercase": "h",
+    "word": "Hat",
+    "emoji": "\ud83c\udfa9",
+    "speech": "H. H for Hat."
+  },
+  {
+    "id": "I",
+    "uppercase": "I",
+    "lowercase": "i",
+    "word": "Ice Cream",
+    "emoji": "\ud83c\udf66",
+    "speech": "I. I for Ice Cream."
+  },
+  {
+    "id": "J",
+    "uppercase": "J",
+    "lowercase": "j",
+    "word": "Juice",
+    "emoji": "\ud83e\uddc3",
+    "speech": "J. J for Juice."
+  },
+  {
+    "id": "K",
+    "uppercase": "K",
+    "lowercase": "k",
+    "word": "Kite",
+    "emoji": "\ud83e\ude81",
+    "speech": "K. K for Kite."
+  },
+  {
+    "id": "L",
+    "uppercase": "L",
+    "lowercase": "l",
+    "word": "Lion",
+    "emoji": "\ud83e\udd81",
+    "speech": "L. L for Lion."
+  },
+  {
+    "id": "M",
+    "uppercase": "M",
+    "lowercase": "m",
+    "word": "Moon",
+    "emoji": "\ud83c\udf19",
+    "speech": "M. M for Moon."
+  },
+  {
+    "id": "N",
+    "uppercase": "N",
+    "lowercase": "n",
+    "word": "Nest",
+    "emoji": "\ud83e\udeba",
+    "speech": "N. N for Nest."
+  },
+  {
+    "id": "O",
+    "uppercase": "O",
+    "lowercase": "o",
+    "word": "Orange",
+    "emoji": "\ud83c\udf4a",
+    "speech": "O. O for Orange."
+  },
+  {
+    "id": "P",
+    "uppercase": "P",
+    "lowercase": "p",
+    "word": "Parrot",
+    "emoji": "\ud83e\udd9c",
+    "speech": "P. P for Parrot."
+  },
+  {
+    "id": "Q",
+    "uppercase": "Q",
+    "lowercase": "q",
+    "word": "Queen",
+    "emoji": "\ud83d\udc51",
+    "speech": "Q. Q for Queen."
+  },
+  {
+    "id": "R",
+    "uppercase": "R",
+    "lowercase": "r",
+    "word": "Rabbit",
+    "emoji": "\ud83d\udc30",
+    "speech": "R. R for Rabbit."
+  },
+  {
+    "id": "S",
+    "uppercase": "S",
+    "lowercase": "s",
+    "word": "Sun",
+    "emoji": "\u2600\ufe0f",
+    "speech": "S. S for Sun."
+  },
+  {
+    "id": "T",
+    "uppercase": "T",
+    "lowercase": "t",
+    "word": "Tiger",
+    "emoji": "\ud83d\udc2f",
+    "speech": "T. T for Tiger."
+  },
+  {
+    "id": "U",
+    "uppercase": "U",
+    "lowercase": "u",
+    "word": "Umbrella",
+    "emoji": "\u2602\ufe0f",
+    "speech": "U. U for Umbrella."
+  },
+  {
+    "id": "V",
+    "uppercase": "V",
+    "lowercase": "v",
+    "word": "Van",
+    "emoji": "\ud83d\ude90",
+    "speech": "V. V for Van."
+  },
+  {
+    "id": "W",
+    "uppercase": "W",
+    "lowercase": "w",
+    "word": "Watermelon",
+    "emoji": "\ud83c\udf49",
+    "speech": "W. W for Watermelon."
+  },
+  {
+    "id": "X",
+    "uppercase": "X",
+    "lowercase": "x",
+    "word": "Xylophone",
+    "emoji": "\ud83c\udfbc",
+    "speech": "X. X for Xylophone."
+  },
+  {
+    "id": "Y",
+    "uppercase": "Y",
+    "lowercase": "y",
+    "word": "Yoyo",
+    "emoji": "\ud83e\ude80",
+    "speech": "Y. Y for Yoyo."
+  },
+  {
+    "id": "Z",
+    "uppercase": "Z",
+    "lowercase": "z",
+    "word": "Zebra",
+    "emoji": "\ud83e\udd93",
+    "speech": "Z. Z for Zebra."
+  }
+]

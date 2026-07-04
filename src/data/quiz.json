@@ -1,0 +1,14 @@
+[
+  { "id": "q1", "type": "find", "prompt": "Find the Apple", "answer": "🍎", "options": ["🍎", "🍌", "🍊", "🍇"] },
+  { "id": "q2", "type": "find", "prompt": "Find the Dog", "answer": "🐶", "options": ["🐱", "🐶", "🐰", "🐸"] },
+  { "id": "q3", "type": "find", "prompt": "Find the Sun", "answer": "☀️", "options": ["🌙", "⭐", "☀️", "☁️"] },
+  { "id": "q4", "type": "number", "prompt": "Which number is 5?", "answer": "5", "options": ["3", "5", "7", "9"] },
+  { "id": "q5", "type": "number", "prompt": "Which number is 2?", "answer": "2", "options": ["2", "4", "6", "8"] },
+  { "id": "q6", "type": "color", "prompt": "Which color is this?", "answerHex": "#EF4444", "answer": "Red", "options": ["Red", "Blue", "Green", "Yellow"] },
+  { "id": "q7", "type": "color", "prompt": "Which color is this?", "answerHex": "#3B82F6", "answer": "Blue", "options": ["Pink", "Blue", "Purple", "Brown"] },
+  { "id": "q8", "type": "letter", "prompt": "Which letter is A?", "answer": "A", "options": ["A", "B", "C", "D"] },
+  { "id": "q9", "type": "letter", "prompt": "Which letter is M?", "answer": "M", "options": ["N", "M", "W", "H"] },
+  { "id": "q10", "type": "find", "prompt": "Find the Elephant", "answer": "🐘", "options": ["🐘", "🐒", "🦁", "🐯"] },
+  { "id": "q11", "type": "number", "prompt": "Which number is 10?", "answer": "10", "options": ["1", "10", "100", "0"] },
+  { "id": "q12", "type": "find", "prompt": "Find the Star", "answer": "⭐", "options": ["🎈", "⭐", "🌸", "🍭"] }
+]

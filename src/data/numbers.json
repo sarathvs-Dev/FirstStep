@@ -1,0 +1,170 @@
+[
+  {
+    "id": 0,
+    "value": 0,
+    "word": "Zero",
+    "emoji": "\ud83c\udf4e",
+    "count": 0,
+    "speech": "0. zero."
+  },
+  {
+    "id": 1,
+    "value": 1,
+    "word": "One",
+    "emoji": "\u2b50",
+    "count": 1,
+    "speech": "1. one."
+  },
+  {
+    "id": 2,
+    "value": 2,
+    "word": "Two",
+    "emoji": "\ud83c\udf88",
+    "count": 2,
+    "speech": "2. two."
+  },
+  {
+    "id": 3,
+    "value": 3,
+    "word": "Three",
+    "emoji": "\ud83d\udc1f",
+    "count": 3,
+    "speech": "3. three."
+  },
+  {
+    "id": 4,
+    "value": 4,
+    "word": "Four",
+    "emoji": "\ud83c\udf53",
+    "count": 4,
+    "speech": "4. four."
+  },
+  {
+    "id": 5,
+    "value": 5,
+    "word": "Five",
+    "emoji": "\ud83c\udf38",
+    "count": 5,
+    "speech": "5. five."
+  },
+  {
+    "id": 6,
+    "value": 6,
+    "word": "Six",
+    "emoji": "\ud83e\uddf8",
+    "count": 6,
+    "speech": "6. six."
+  },
+  {
+    "id": 7,
+    "value": 7,
+    "word": "Seven",
+    "emoji": "\ud83c\udf69",
+    "count": 7,
+    "speech": "7. seven."
+  },
+  {
+    "id": 8,
+    "value": 8,
+    "word": "Eight",
+    "emoji": "\ud83d\udc1d",
+    "count": 8,
+    "speech": "8. eight."
+  },
+  {
+    "id": 9,
+    "value": 9,
+    "word": "Nine",
+    "emoji": "\ud83d\ude97",
+    "count": 9,
+    "speech": "9. nine."
+  },
+  {
+    "id": 10,
+    "value": 10,
+    "word": "Ten",
+    "emoji": "\ud83c\udf81",
+    "count": 10,
+    "speech": "10. ten."
+  },
+  {
+    "id": 11,
+    "value": 11,
+    "word": "Eleven",
+    "emoji": "\ud83c\udf6a",
+    "count": 11,
+    "speech": "11. eleven."
+  },
+  {
+    "id": 12,
+    "value": 12,
+    "word": "Twelve",
+    "emoji": "\ud83d\udc23",
+    "count": 12,
+    "speech": "12. twelve."
+  },
+  {
+    "id": 13,
+    "value": 13,
+    "word": "Thirteen",
+    "emoji": "\ud83c\udf3c",
+    "count": 13,
+    "speech": "13. thirteen."
+  },
+  {
+    "id": 14,
+    "value": 14,
+    "word": "Fourteen",
+    "emoji": "\ud83c\udf6d",
+    "count": 14,
+    "speech": "14. fourteen."
+  },
+  {
+    "id": 15,
+    "value": 15,
+    "word": "Fifteen",
+    "emoji": "\ud83e\udd8b",
+    "count": 15,
+    "speech": "15. fifteen."
+  },
+  {
+    "id": 16,
+    "value": 16,
+    "word": "Sixteen",
+    "emoji": "\ud83c\udf47",
+    "count": 16,
+    "speech": "16. sixteen."
+  },
+  {
+    "id": 17,
+    "value": 17,
+    "word": "Seventeen",
+    "emoji": "\ud83d\udc20",
+    "count": 17,
+    "speech": "17. seventeen."
+  },
+  {
+    "id": 18,
+    "value": 18,
+    "word": "Eighteen",
+    "emoji": "\ud83c\udf80",
+    "count": 18,
+    "speech": "18. eighteen."
+  },
+  {
+    "id": 19,
+    "value": 19,
+    "word": "Nineteen",
+    "emoji": "\ud83e\udde6",
+    "count": 19,
+    "speech": "19. nineteen."
+  },
+  {
+    "id": 20,
+    "value": 20,
+    "word": "Twenty",
+    "emoji": "\ud83c\udf52",
+    "count": 20,
+    "speech": "20. twenty."
+  }
+]

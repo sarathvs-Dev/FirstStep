@@ -1,0 +1,177 @@
+[
+  {
+    "id": "cat",
+    "word": "Cat",
+    "emoji": "\ud83d\udc31",
+    "sentence": "The cat is soft.",
+    "speech": "Cat. The cat is soft."
+  },
+  {
+    "id": "dog",
+    "word": "Dog",
+    "emoji": "\ud83d\udc36",
+    "sentence": "The dog can run.",
+    "speech": "Dog. The dog can run."
+  },
+  {
+    "id": "sun",
+    "word": "Sun",
+    "emoji": "\u2600\ufe0f",
+    "sentence": "The sun is bright.",
+    "speech": "Sun. The sun is bright."
+  },
+  {
+    "id": "moon",
+    "word": "Moon",
+    "emoji": "\ud83c\udf19",
+    "sentence": "The moon shines at night.",
+    "speech": "Moon. The moon shines at night."
+  },
+  {
+    "id": "star",
+    "word": "Star",
+    "emoji": "\u2b50",
+    "sentence": "The star is up high.",
+    "speech": "Star. The star is up high."
+  },
+  {
+    "id": "ball",
+    "word": "Ball",
+    "emoji": "\u26bd",
+    "sentence": "The ball is round.",
+    "speech": "Ball. The ball is round."
+  },
+  {
+    "id": "tree",
+    "word": "Tree",
+    "emoji": "\ud83c\udf33",
+    "sentence": "The tree is tall.",
+    "speech": "Tree. The tree is tall."
+  },
+  {
+    "id": "boy",
+    "word": "Boy",
+    "emoji": "\ud83d\udc66",
+    "sentence": "The boy can jump.",
+    "speech": "Boy. The boy can jump."
+  },
+  {
+    "id": "girl",
+    "word": "Girl",
+    "emoji": "\ud83d\udc67",
+    "sentence": "The girl can sing.",
+    "speech": "Girl. The girl can sing."
+  },
+  {
+    "id": "mom",
+    "word": "Mom",
+    "emoji": "\ud83d\udc69",
+    "sentence": "Mom gives me a hug.",
+    "speech": "Mom. Mom gives me a hug."
+  },
+  {
+    "id": "dad",
+    "word": "Dad",
+    "emoji": "\ud83d\udc68",
+    "sentence": "Dad reads me a book.",
+    "speech": "Dad. Dad reads me a book."
+  },
+  {
+    "id": "book",
+    "word": "Book",
+    "emoji": "\ud83d\udcd6",
+    "sentence": "I read a book.",
+    "speech": "Book. I read a book."
+  },
+  {
+    "id": "pen",
+    "word": "Pen",
+    "emoji": "\ud83d\udd8a\ufe0f",
+    "sentence": "I write with a pen.",
+    "speech": "Pen. I write with a pen."
+  },
+  {
+    "id": "milk",
+    "word": "Milk",
+    "emoji": "\ud83e\udd5b",
+    "sentence": "I drink my milk.",
+    "speech": "Milk. I drink my milk."
+  },
+  {
+    "id": "apple",
+    "word": "Apple",
+    "emoji": "\ud83c\udf4e",
+    "sentence": "I eat an apple.",
+    "speech": "Apple. I eat an apple."
+  },
+  {
+    "id": "bus",
+    "word": "Bus",
+    "emoji": "\ud83d\ude8c",
+    "sentence": "The bus is yellow.",
+    "speech": "Bus. The bus is yellow."
+  },
+  {
+    "id": "car",
+    "word": "Car",
+    "emoji": "\ud83d\ude97",
+    "sentence": "The car can go fast.",
+    "speech": "Car. The car can go fast."
+  },
+  {
+    "id": "run",
+    "word": "Run",
+    "emoji": "\ud83c\udfc3",
+    "sentence": "I run in the park.",
+    "speech": "Run. I run in the park."
+  },
+  {
+    "id": "eat",
+    "word": "Eat",
+    "emoji": "\ud83c\udf7d\ufe0f",
+    "sentence": "I eat my lunch.",
+    "speech": "Eat. I eat my lunch."
+  },
+  {
+    "id": "drink",
+    "word": "Drink",
+    "emoji": "\ud83e\udd64",
+    "sentence": "I drink some water.",
+    "speech": "Drink. I drink some water."
+  },
+  {
+    "id": "jump",
+    "word": "Jump",
+    "emoji": "\ud83e\udd38",
+    "sentence": "I jump up high.",
+    "speech": "Jump. I jump up high."
+  },
+  {
+    "id": "play",
+    "word": "Play",
+    "emoji": "\ud83e\uddf8",
+    "sentence": "I play with my toys.",
+    "speech": "Play. I play with my toys."
+  },
+  {
+    "id": "read",
+    "word": "Read",
+    "emoji": "\ud83d\udcda",
+    "sentence": "I read every night.",
+    "speech": "Read. I read every night."
+  },
+  {
+    "id": "write",
+    "word": "Write",
+    "emoji": "\u270d\ufe0f",
+    "sentence": "I write my name.",
+    "speech": "Write. I write my name."
+  },
+  {
+    "id": "sleep",
+    "word": "Sleep",
+    "emoji": "\ud83d\ude34",
+    "sentence": "I sleep in my bed.",
+    "speech": "Sleep. I sleep in my bed."
+  }
+]
