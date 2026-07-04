@@ -18,6 +18,8 @@ export function useSpeech() {
   const [speaking, setSpeaking] = useState(false)
   const supported = typeof window !== 'undefined' && 'speechSynthesis' in window
   const voiceRef = useRef(null)
+  const gapTimeoutRef = useRef(null)
+  const sessionRef = useRef(0)
 
   useEffect(() => {
     if (!supported) return
@@ -44,23 +46,44 @@ export function useSpeech() {
 
   const stop = useCallback(() => {
     if (!supported) return
+    sessionRef.current += 1
+    clearTimeout(gapTimeoutRef.current)
     window.speechSynthesis.cancel()
     setSpeaking(false)
   }, [supported])
 
+  // "||" marks an intentional pause point in a speech string (e.g. "A||A for Apple.")
+  // so the two parts are spoken as separate utterances with a real gap between them,
+  // instead of running together as one rushed sentence.
   const speak = useCallback(
     (text, { rate = 0.85, pitch = 1.15 } = {}) => {
       if (!supported || muted || !text) return
+      sessionRef.current += 1
+      const session = sessionRef.current
+      clearTimeout(gapTimeoutRef.current)
       window.speechSynthesis.cancel()
-      const utter = new SpeechSynthesisUtterance(text)
-      utter.rate = rate
-      utter.pitch = pitch
-      utter.volume = 1
-      if (voiceRef.current) utter.voice = voiceRef.current
-      utter.onstart = () => setSpeaking(true)
-      utter.onend = () => setSpeaking(false)
-      utter.onerror = () => setSpeaking(false)
-      window.speechSynthesis.speak(utter)
+      const parts = text.split('||').map((s) => s.trim()).filter(Boolean)
+      let i = 0
+      const speakPart = () => {
+        const utter = new SpeechSynthesisUtterance(parts[i])
+        utter.rate = rate
+        utter.pitch = pitch
+        utter.volume = 1
+        if (voiceRef.current) utter.voice = voiceRef.current
+        utter.onstart = () => setSpeaking(true)
+        utter.onend = () => {
+          if (sessionRef.current !== session) return
+          i += 1
+          if (i < parts.length) {
+            gapTimeoutRef.current = setTimeout(speakPart, 450)
+          } else {
+            setSpeaking(false)
+          }
+        }
+        utter.onerror = () => setSpeaking(false)
+        window.speechSynthesis.speak(utter)
+      }
+      speakPart()
     },
     [supported, muted]
   )

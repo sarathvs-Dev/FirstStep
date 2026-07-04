@@ -2,161 +2,161 @@
   {
     "id": "cat",
     "name": "Cat",
-    "emoji": "\ud83d\udc31",
+    "emoji": "🐱",
     "sound": "Meow Meow",
     "fact": "A cat loves to nap in warm sunny spots.",
-    "speech": "Cat. Meow Meow."
+    "speech": "Cat."
   },
   {
     "id": "dog",
     "name": "Dog",
-    "emoji": "\ud83d\udc36",
+    "emoji": "🐶",
     "sound": "Woof Woof",
     "fact": "Dogs wag their tails when they are happy.",
-    "speech": "Dog. Woof Woof."
+    "speech": "Dog."
   },
   {
     "id": "cow",
     "name": "Cow",
-    "emoji": "\ud83d\udc04",
+    "emoji": "🐄",
     "sound": "Moo Moo",
     "fact": "A cow gives us milk to drink.",
-    "speech": "Cow. Moo Moo."
+    "speech": "Cow."
   },
   {
     "id": "goat",
     "name": "Goat",
-    "emoji": "\ud83d\udc10",
+    "emoji": "🐐",
     "sound": "Maa Maa",
     "fact": "Goats love to climb up on rocks.",
-    "speech": "Goat. Maa Maa."
+    "speech": "Goat."
   },
   {
     "id": "horse",
     "name": "Horse",
-    "emoji": "\ud83d\udc34",
+    "emoji": "🐴",
     "sound": "Neigh Neigh",
     "fact": "Horses can run very very fast.",
-    "speech": "Horse. Neigh Neigh."
+    "speech": "Horse."
   },
   {
     "id": "lion",
     "name": "Lion",
-    "emoji": "\ud83e\udd81",
+    "emoji": "🦁",
     "sound": "Roar Roar",
     "fact": "The lion is called the king of the jungle.",
-    "speech": "Lion. Roar Roar."
+    "speech": "Lion."
   },
   {
     "id": "tiger",
     "name": "Tiger",
-    "emoji": "\ud83d\udc2f",
+    "emoji": "🐯",
     "sound": "Growl Growl",
     "fact": "Tigers have orange and black stripes.",
-    "speech": "Tiger. Growl Growl."
+    "speech": "Tiger."
   },
   {
     "id": "elephant",
     "name": "Elephant",
-    "emoji": "\ud83d\udc18",
+    "emoji": "🐘",
     "sound": "Toot Toot",
     "fact": "Elephants use their trunk like a hand.",
-    "speech": "Elephant. Toot Toot."
+    "speech": "Elephant."
   },
   {
     "id": "monkey",
     "name": "Monkey",
-    "emoji": "\ud83d\udc12",
+    "emoji": "🐒",
     "sound": "Ooh Ooh Aah Aah",
     "fact": "Monkeys love to swing from tree to tree.",
-    "speech": "Monkey. Ooh Ooh Aah Aah."
+    "speech": "Monkey."
   },
   {
     "id": "rabbit",
     "name": "Rabbit",
-    "emoji": "\ud83d\udc30",
+    "emoji": "🐰",
     "sound": "Squeak",
     "fact": "Rabbits have long ears and hop very high.",
-    "speech": "Rabbit. Squeak."
+    "speech": "Rabbit."
   },
   {
     "id": "bear",
     "name": "Bear",
-    "emoji": "\ud83d\udc3b",
+    "emoji": "🐻",
     "sound": "Grr Grr",
     "fact": "Bears love to eat honey.",
-    "speech": "Bear. Grr Grr."
+    "speech": "Bear."
   },
   {
     "id": "fish",
     "name": "Fish",
-    "emoji": "\ud83d\udc1f",
+    "emoji": "🐟",
     "sound": "Blub Blub",
     "fact": "Fish breathe underwater with gills.",
-    "speech": "Fish. Blub Blub."
+    "speech": "Fish."
   },
   {
     "id": "frog",
     "name": "Frog",
-    "emoji": "\ud83d\udc38",
+    "emoji": "🐸",
     "sound": "Ribbit Ribbit",
     "fact": "Frogs love to jump from leaf to leaf.",
-    "speech": "Frog. Ribbit Ribbit."
+    "speech": "Frog."
   },
   {
     "id": "snake",
     "name": "Snake",
-    "emoji": "\ud83d\udc0d",
+    "emoji": "🐍",
     "sound": "Hiss Hiss",
     "fact": "Snakes slide along the ground without legs.",
-    "speech": "Snake. Hiss Hiss."
+    "speech": "Snake."
   },
   {
     "id": "turtle",
     "name": "Turtle",
-    "emoji": "\ud83d\udc22",
+    "emoji": "🐢",
     "sound": "...Slow and quiet...",
     "fact": "Turtles carry their home on their back.",
-    "speech": "Turtle. ...Slow and quiet...."
+    "speech": "Turtle."
   },
   {
     "id": "camel",
     "name": "Camel",
-    "emoji": "\ud83d\udc2b",
+    "emoji": "🐫",
     "sound": "Grunt Grunt",
     "fact": "Camels can walk far in the hot desert.",
-    "speech": "Camel. Grunt Grunt."
+    "speech": "Camel."
   },
   {
     "id": "zebra",
     "name": "Zebra",
-    "emoji": "\ud83e\udd93",
+    "emoji": "🦓",
     "sound": "Neigh Neigh",
     "fact": "Zebras have black and white stripes.",
-    "speech": "Zebra. Neigh Neigh."
+    "speech": "Zebra."
   },
   {
     "id": "giraffe",
     "name": "Giraffe",
-    "emoji": "\ud83e\udd92",
+    "emoji": "🦒",
     "sound": "Hum Hum",
     "fact": "Giraffes have very very long necks.",
-    "speech": "Giraffe. Hum Hum."
+    "speech": "Giraffe."
   },
   {
     "id": "panda",
     "name": "Panda",
-    "emoji": "\ud83d\udc3c",
+    "emoji": "🐼",
     "sound": "Grr Grr",
     "fact": "Pandas love munching on bamboo.",
-    "speech": "Panda. Grr Grr."
+    "speech": "Panda."
   },
   {
     "id": "fox",
     "name": "Fox",
-    "emoji": "\ud83e\udd8a",
+    "emoji": "🦊",
     "sound": "Ring-ding-ding",
     "fact": "Foxes have soft bushy tails.",
-    "speech": "Fox. Ring-ding-ding."
+    "speech": "Fox."
   }
 ]

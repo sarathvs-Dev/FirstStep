@@ -3,168 +3,168 @@
     "id": 0,
     "value": 0,
     "word": "Zero",
-    "emoji": "\ud83c\udf4e",
+    "emoji": "🍎",
     "count": 0,
-    "speech": "0. zero."
+    "speech": "Zero."
   },
   {
     "id": 1,
     "value": 1,
     "word": "One",
-    "emoji": "\u2b50",
+    "emoji": "⭐",
     "count": 1,
-    "speech": "1. one."
+    "speech": "One."
   },
   {
     "id": 2,
     "value": 2,
     "word": "Two",
-    "emoji": "\ud83c\udf88",
+    "emoji": "🎈",
     "count": 2,
-    "speech": "2. two."
+    "speech": "Two."
   },
   {
     "id": 3,
     "value": 3,
     "word": "Three",
-    "emoji": "\ud83d\udc1f",
+    "emoji": "🐟",
     "count": 3,
-    "speech": "3. three."
+    "speech": "Three."
   },
   {
     "id": 4,
     "value": 4,
     "word": "Four",
-    "emoji": "\ud83c\udf53",
+    "emoji": "🍓",
     "count": 4,
-    "speech": "4. four."
+    "speech": "Four."
   },
   {
     "id": 5,
     "value": 5,
     "word": "Five",
-    "emoji": "\ud83c\udf38",
+    "emoji": "🌸",
     "count": 5,
-    "speech": "5. five."
+    "speech": "Five."
   },
   {
     "id": 6,
     "value": 6,
     "word": "Six",
-    "emoji": "\ud83e\uddf8",
+    "emoji": "🧸",
     "count": 6,
-    "speech": "6. six."
+    "speech": "Six."
   },
   {
     "id": 7,
     "value": 7,
     "word": "Seven",
-    "emoji": "\ud83c\udf69",
+    "emoji": "🍩",
     "count": 7,
-    "speech": "7. seven."
+    "speech": "Seven."
   },
   {
     "id": 8,
     "value": 8,
     "word": "Eight",
-    "emoji": "\ud83d\udc1d",
+    "emoji": "🐝",
     "count": 8,
-    "speech": "8. eight."
+    "speech": "Eight."
   },
   {
     "id": 9,
     "value": 9,
     "word": "Nine",
-    "emoji": "\ud83d\ude97",
+    "emoji": "🚗",
     "count": 9,
-    "speech": "9. nine."
+    "speech": "Nine."
   },
   {
     "id": 10,
     "value": 10,
     "word": "Ten",
-    "emoji": "\ud83c\udf81",
+    "emoji": "🎁",
     "count": 10,
-    "speech": "10. ten."
+    "speech": "Ten."
   },
   {
     "id": 11,
     "value": 11,
     "word": "Eleven",
-    "emoji": "\ud83c\udf6a",
+    "emoji": "🍪",
     "count": 11,
-    "speech": "11. eleven."
+    "speech": "Eleven."
   },
   {
     "id": 12,
     "value": 12,
     "word": "Twelve",
-    "emoji": "\ud83d\udc23",
+    "emoji": "🐣",
     "count": 12,
-    "speech": "12. twelve."
+    "speech": "Twelve."
   },
   {
     "id": 13,
     "value": 13,
     "word": "Thirteen",
-    "emoji": "\ud83c\udf3c",
+    "emoji": "🌼",
     "count": 13,
-    "speech": "13. thirteen."
+    "speech": "Thirteen."
   },
   {
     "id": 14,
     "value": 14,
     "word": "Fourteen",
-    "emoji": "\ud83c\udf6d",
+    "emoji": "🍭",
     "count": 14,
-    "speech": "14. fourteen."
+    "speech": "Fourteen."
   },
   {
     "id": 15,
     "value": 15,
     "word": "Fifteen",
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "count": 15,
-    "speech": "15. fifteen."
+    "speech": "Fifteen."
   },
   {
     "id": 16,
     "value": 16,
     "word": "Sixteen",
-    "emoji": "\ud83c\udf47",
+    "emoji": "🍇",
     "count": 16,
-    "speech": "16. sixteen."
+    "speech": "Sixteen."
   },
   {
     "id": 17,
     "value": 17,
     "word": "Seventeen",
-    "emoji": "\ud83d\udc20",
+    "emoji": "🐠",
     "count": 17,
-    "speech": "17. seventeen."
+    "speech": "Seventeen."
   },
   {
     "id": 18,
     "value": 18,
     "word": "Eighteen",
-    "emoji": "\ud83c\udf80",
+    "emoji": "🎀",
     "count": 18,
-    "speech": "18. eighteen."
+    "speech": "Eighteen."
   },
   {
     "id": 19,
     "value": 19,
     "word": "Nineteen",
-    "emoji": "\ud83e\udde6",
+    "emoji": "🧦",
     "count": 19,
-    "speech": "19. nineteen."
+    "speech": "Nineteen."
   },
   {
     "id": 20,
     "value": 20,
     "word": "Twenty",
-    "emoji": "\ud83c\udf52",
+    "emoji": "🍒",
     "count": 20,
-    "speech": "20. twenty."
+    "speech": "Twenty."
   }
 ]

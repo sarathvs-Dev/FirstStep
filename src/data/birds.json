@@ -2,81 +2,81 @@
   {
     "id": "crow",
     "name": "Crow",
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "sound": "Caw Caw",
     "fact": "Crows are very clever birds.",
-    "speech": "Crow. Caw Caw."
+    "speech": "Crow."
   },
   {
     "id": "hen",
     "name": "Hen",
-    "emoji": "\ud83d\udc14",
+    "emoji": "🐔",
     "sound": "Cluck Cluck",
     "fact": "A hen lays eggs every morning.",
-    "speech": "Hen. Cluck Cluck."
+    "speech": "Hen."
   },
   {
     "id": "duck",
     "name": "Duck",
-    "emoji": "\ud83e\udd86",
+    "emoji": "🦆",
     "sound": "Quack Quack",
     "fact": "Ducks love to swim in the pond.",
-    "speech": "Duck. Quack Quack."
+    "speech": "Duck."
   },
   {
     "id": "parrot",
     "name": "Parrot",
-    "emoji": "\ud83e\udd9c",
+    "emoji": "🦜",
     "sound": "Hello Hello",
     "fact": "Parrots can learn to copy words.",
-    "speech": "Parrot. Hello Hello."
+    "speech": "Parrot."
   },
   {
     "id": "peacock",
     "name": "Peacock",
-    "emoji": "\ud83e\udd9a",
+    "emoji": "🦚",
     "sound": "Meaow Meaow",
     "fact": "A peacock has beautiful colorful feathers.",
-    "speech": "Peacock. Meaow Meaow."
+    "speech": "Peacock."
   },
   {
     "id": "owl",
     "name": "Owl",
-    "emoji": "\ud83e\udd89",
+    "emoji": "🦉",
     "sound": "Hoot Hoot",
     "fact": "Owls stay awake all through the night.",
-    "speech": "Owl. Hoot Hoot."
+    "speech": "Owl."
   },
   {
     "id": "pigeon",
     "name": "Pigeon",
-    "emoji": "\ud83d\udd4a\ufe0f",
+    "emoji": "🕊️",
     "sound": "Coo Coo",
     "fact": "Pigeons love to visit the park.",
-    "speech": "Pigeon. Coo Coo."
+    "speech": "Pigeon."
   },
   {
     "id": "sparrow",
     "name": "Sparrow",
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "sound": "Chirp Chirp",
     "fact": "Sparrows are small and quick birds.",
-    "speech": "Sparrow. Chirp Chirp."
+    "speech": "Sparrow."
   },
   {
     "id": "eagle",
     "name": "Eagle",
-    "emoji": "\ud83e\udd85",
+    "emoji": "🦅",
     "sound": "Screech",
     "fact": "Eagles can fly very very high.",
-    "speech": "Eagle. Screech."
+    "speech": "Eagle."
   },
   {
     "id": "kingfisher",
     "name": "Kingfisher",
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "sound": "Chee Chee",
     "fact": "Kingfishers are fast swooping fishers.",
-    "speech": "Kingfisher. Chee Chee."
+    "speech": "Kingfisher."
   }
 ]
